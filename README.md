@@ -8,16 +8,17 @@ As college students navigate the challenges of academic pressures, social dynami
 **Objective**: To study the effect of mental health conditions on student academic performance and derive recommendations that will help college management create an healthier academic environment.
 
 **Below is the report created in Power BI**
-![image alt](
+![image alt](https://github.com/Ruqayyat-Hassan/PowerBI-Project/blob/d75b8da139a06ba8ac133552b928738f87745ad4/Report.png)
 
 [Link to report on PowerBI service](https://app.powerbi.com/links/CzZFMYasjm?ctid=b3894c53-b435-4a79-bf3c-7185006c5f69&pbi_source=linkShare)
 
 ## Data collection process
 **Data on Student Mental health was extracted from kaggle.com**
+
 About Dataset- This Data set was collected by a survey conducted via Google forms from 101 University students in order to examine their current academic situation and mental health.
 All the data was based on Malaysia and collected from IIUM (International Icamil University Malaysia)
 
-Here's the data set
+[Here's the data set](https://github.com/Ruqayyat-Hassan/PowerBI-Project/blob/ae271c6db9cfb168770028ebbd787f1932544cd0/Student%20Mental%20health.xlsx)
 
 ## Data cleaning & transformation process
 - Renamed some columns (the former were written in query format)
