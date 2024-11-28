@@ -1,21 +1,23 @@
 # PowerBIProject- Analysis of Mental Health Status amongst College Students
-![Main](Analyis of Mental health status.png)
+![image alt](https://github.com/Ruqayyat-Hassan/PowerBI-Project/blob/75839d699bad4cf8ac80c3b63883edbe65148250/Analyis%20of%20Mental%20health%20status.png)
 
 ## Introduction and Objectives
 
 As college students navigate the challenges of academic pressures, social dynamics, and personal development, their mental health can significantly impact their well-being and academic performance. In this analysis, I delved into three critical areas of mental health: **depression, anxiety, and panic attack**. Understanding these conditions is essential not only for fostering a supportive environment but also for implementing effective solutions that will improve student mental health and overall success.
 
 **Objective**: To study the effect of mental health conditions on student academic performance and derive recommendations that will help college management create an healthier academic environment.
-Bwlow is the report created in [powerbi
+
+**Below is the report created in Power BI**
+![image alt](
+
 [Link to report on PowerBI service](https://app.powerbi.com/links/CzZFMYasjm?ctid=b3894c53-b435-4a79-bf3c-7185006c5f69&pbi_source=linkShare)
 
 ## Data collection process
 **Data on Student Mental health was extracted from kaggle.com**
-About Dataset
-This Data set was collected by a survey conducted via Google forms from 101 University students in order to examine their current academic situation and mental health.
+About Dataset- This Data set was collected by a survey conducted via Google forms from 101 University students in order to examine their current academic situation and mental health.
 All the data was based on Malaysia and collected from IIUM (International Icamil University Malaysia)
 
-Heres the data set
+Here's the data set
 
 ## Data cleaning & transformation process
 - Renamed some columns (the former were written in query format)
